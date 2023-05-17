@@ -1,0 +1,20 @@
+@media (max-width: 800px) {
+  /* Navbar */
+  .nav-link {
+    padding-left: 5% !important;
+    margin: 0 !important;
+  }
+
+  .dropdown-item {
+    padding-left: 8% !important;
+  }
+
+  .navbar-content {
+    padding-left: 0;
+  }
+
+  .navbar-content a:hover {
+    color: black !important;
+    transform: scale(1) !important;
+  }
+}
